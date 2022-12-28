@@ -1,7 +1,7 @@
-# Discord v13 Ekip ve public Register / Kayıt Botu 
+# Discord v13 Ekip ve Public Register / Kayıt Sistemi 
 
 
-Discord sunucularınızda kullanabileceğiniz güncel v13 Register / Kayıt botu. 
+Discord sunucularınızda güvenle kullanabileceğiniz güzel bir v13 Register / Kayıt sistemi
 
   
 
@@ -20,6 +20,6 @@ Discord sunucularınızda kullanabileceğiniz güncel v13 Register / Kayıt botu
 - Yakında 
 
 
- # İletişim 
+ # iletişim veya soru için
 
  - [Discord Profilim](https://discord.com/users/560917924257464320) 
