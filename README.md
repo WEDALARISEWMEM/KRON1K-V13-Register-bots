@@ -5,7 +5,7 @@ Discord sunucularınızda güvenle kullanabileceğiniz güzel bir v13 Register /
 
   
 
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/560917924257464320?hideDiscrim=true)]
+ [![Discord Presence](https://lanyard.cnrad.dev/api/560917924257464320)](https://discord.com/users/560917924257464320)
 
   
  # Kurulum & İçerik 
